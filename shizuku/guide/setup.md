@@ -1,4 +1,4 @@
-# User manual
+halo# User manual
 
 [[toc]]
 
